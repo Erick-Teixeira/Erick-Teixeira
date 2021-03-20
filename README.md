@@ -1,4 +1,4 @@
-# Welcome! I'm Erick Teixeira ![tenor](https://user-images.githubusercontent.com/76793266/111881763-d5c9cc00-8990-11eb-9353-d493027ea1bd.gif)
+# Welcome! I'm Erick Teixeira
 
 br>
 
