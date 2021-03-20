@@ -4,6 +4,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Teixeira&layout=compact&theme=tokyonight)](https://github.com/Erick-Teixeira/github-readme-stats)<br>
 
 ### Social <br>
- - [Linkedin:Erick Teixeira]https://www.linkedin.com/in/erick-teixeira-bab673194/
- - [Instagram:@erick_gustavo9]
-[<img src="https://www.instagram.com/erick_gustavo9/?hl=pt-br" data-canonical-src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;">]
+ - [Linkedin:https://www.linkedin.com/in/erick-teixeira-bab673194/]
+ - [Instagram:https://www.instagram.com/erick_gustavo9/?hl=pt-br"]
