@@ -2,7 +2,7 @@
   
 ## Desenvolvedor Front-End
 
-<a href="#"><img src="https://img.shields.io/badge/portfolio-%232c2f40.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" title="Portfolio"></a> <a href="https://www.linkedin.com/in/erick-teixeira-bab673194/"><img src="https://img.shields.io/badge/linkedin-%23282a3a.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"></a> <a href="mailto:teixairaerick@gmail.com"><img src="https://img.shields.io/badge/gmail-%23232633.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"></a>
+<a href="#"><img src="https://img.shields.io/badge/portfolio-%232c2f40.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" title="Portfolio"></a> <a href="https://www.linkedin.com/in/erick-teixeira-bab673194/"><img src="https://img.shields.io/badge/linkedin-%23282a3a.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"></a> <a href="mailto:teixairaerick@gmail.com"><img src="https://img.shields.io/badge/gmail-%23232633.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"></a> <a href="https://www.instagram.com/erick_gustavo9/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-%23282a3a.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" title="instagram"></a>
 </span>
 
 <span align="center">
