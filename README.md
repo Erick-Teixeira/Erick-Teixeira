@@ -12,17 +12,3 @@
 <span align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Teixeira&theme=tokyonight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175 />
 </span><p>
-
-### technologies 
-
-<!-- HTML -->
-<p>
-<div align="center">
-<img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
-
-<!-- CSS -->
-<img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
-
-<!-- JAVASCRIPT -->
-<img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
-</div></p>
