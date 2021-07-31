@@ -1,14 +1,26 @@
-<span align="center">
-  
 ## Oii! eu sou o Erick Teixeira
 
-<a href="#"><img src="https://img.shields.io/badge/portfolio-%232c2f40.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" title="Portfolio"></a> <a href="https://www.linkedin.com/in/erick-teixeira-bab673194/"><img src="https://img.shields.io/badge/linkedin-%23282a3a.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"></a> <a href="mailto:ErickTeixeira2002@gmail.com"><img src="https://img.shields.io/badge/gmail-%23232633.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"></a> <a href="https://www.instagram.com/erick_gustavo9/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-%23282a3a.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" title="instagram"></a>
-</span>
-
-<span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erick-Teixeira&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175/>
-</span>
-
-<span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Teixeira&theme=tokyonight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175 />
-</span><p>
+<div>
+  <a href="https://github.com/Erick-Teixeira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Teixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Teixeira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="right" alt="Erick-gif"  height="170" width="170" src="https://media.discordapp.net/attachments/769244316006088775/870828203328045056/Animacao.gif">
+</div>
+  
+##
+  
+<div> 
+  <a href="https://www.instagram.com/erick_gustavo9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ErickTeixeira2002@protonmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erick-teixeira-bab673194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
