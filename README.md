@@ -1,4 +1,5 @@
-## Olá eu sou Erick Teixeira!
+
+## Olá, eu sou o Erick Teixeira!
 <div align="center">
   <a href="https://github.com/Erick-Teixeira">
   <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api?username=Erick-Teixeira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
