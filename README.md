@@ -20,6 +20,6 @@
   <a href = "mailto:erickteixeira@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/Erick.g.Teixeira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Erick-Teixeira/Erick-Teixeira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
